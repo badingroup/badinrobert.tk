@@ -1,45 +1,38 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="badinrobert.tk" resolutions="1x" timestamp="1530481183157">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="badinrobert.tk" resolutions="1x" timestamp="1530581759058">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="297136365" ref="portfol:price:about:contacts:video:index"/>
-    <file name="portfol.css" crc="3905563757" ref="portfol"/>
-    <file name="price.css" crc="3933959668" ref="price"/>
-    <file name="about.css" crc="3933959668" ref="about"/>
-    <file name="contacts.css" crc="3905563757" ref="contacts"/>
-    <file name="video.css" crc="3905563757" ref="video"/>
-    <file name="index.css" crc="4188786313" ref="index"/>
+    <file name="master_______-a.css" crc="365857645" ref="index"/>
+    <file name="index.css" crc="4223277351" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacts:price:about:video:portfol"/>
-    <file name="museutils.js" crc="3803043152" ref="index:contacts:price:about:video:portfol"/>
-    <file name="whatinput.js" crc="86476730" ref="index:contacts:price:about:video:portfol"/>
-    <file name="museconfig.js" crc="380897831" ref="index:contacts:price:about:video:portfol"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:contacts:price:about:video:portfol"/>
-    <file name="require.js" crc="4157109226" ref="index:contacts:price:about:video:portfol"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
     <file name="шаблон-a-favicon.ico" crc="123576601" ref="index"/>
-    <file name="3.jpg" crc="3789233346" seo="true" ref="index:contacts:price:about:video:portfol">
+    <file name="3.jpg" crc="3789233346" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="portfol" alt=""/>
-      <caption webpage="price" alt=""/>
-    </file>
-    <file name="dsc_1544.jpg" crc="4174500582" seo="true" ref="index:video:about:portfol:price:contacts">
-      <caption webpage="index" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="price" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="portfol" alt=""/>
-      <caption webpage="price" alt=""/>
     </file>
+    <file name="dsc_1544.jpg" crc="4174500582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfol" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u2294.png" crc="4000963020" ref="index"/>
+    <file name="u2294-r.png" crc="30403958" ref="index"/>
   </folder>
-  <file name="index.html" crc="4153834722" seo="true" mt="1530481172376" redirect="true"/>
-  <file name="contacts.html" crc="3780117839" seo="true" mt="1530481172376" redirect="true"/>
-  <file name="price.html" crc="523167848" seo="true" mt="1530481172376" redirect="true"/>
-  <file name="about.html" crc="288538955" seo="true" mt="1530481172376" redirect="true"/>
-  <file name="video.html" crc="506922148" seo="true" mt="1530481172376" redirect="true"/>
-  <file name="portfol.html" crc="4218763213" seo="true" mt="1530481172376" redirect="true"/>
+  <file name="index.html" crc="365865301" seo="true" mt="1530581750679" redirect="true"/>
 </manifest>
